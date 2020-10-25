@@ -1,0 +1,11 @@
+query capsuleList {
+  capsules {
+    dragon {
+      active
+      crew_capacity
+      description
+      dry_mass_kg
+      dry_mass_lb
+    }
+  }
+}
